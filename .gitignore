@@ -22,11 +22,13 @@ yarn-error.log*
 
 # secret
 /src/config/firebase-config.js
+/functions/config/service_account.json
 
 # firebase
 .firebase
 .firebaserc
-functions
+/functions/node_modules
 
 # editor
 .idea
+
